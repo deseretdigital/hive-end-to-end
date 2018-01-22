@@ -1,0 +1,5 @@
+{
+    "token": "",
+    "base": "http://test.hive.pub/api/",
+    "base_varnish": "http://varnish.hive.pub/api/"
+}

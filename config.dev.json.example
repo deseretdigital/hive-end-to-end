@@ -1,5 +1,13 @@
 {
     "token": "",
-    "base": "http://test.hive.pub/api/",
-    "base_varnish": "http://varnish.hive.pub/api/"
+    "token_admin": "",
+    "token_ksl": "",
+    "tokens": {
+        "admin": "",
+        "beetdiggerfan": "",
+        "ksl": "",
+        "rslpride": ""
+    },
+    "base": "http://dev.hive.pub/api/",
+    "base_varnish": "http://dev-varnish.hive.pub/api/"
 }

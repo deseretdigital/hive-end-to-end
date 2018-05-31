@@ -10,6 +10,7 @@
     "promptly": "^3.0.3"
   },
   "scripts": {
-    "test": "NODE_PATH=lib babel-node ./lib/index.js"
+    "test": "NODE_PATH=lib babel-node ./lib/index.js",
+    "test-suite": ["yarn test pagesContent.js"]
   }
 }

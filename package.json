@@ -11,8 +11,6 @@
   },
   "scripts": {
     "test": "NODE_PATH=lib babel-node ./lib/index.js",
-    "test-suite": [
-      "TEST=pagesContent.js yarn test && TEST=contentProfilesSearch.js yarn test"
-    ]
+    "test-suite": "TEST=pagesContent.js yarn test && TEST=contentProfilesSearch.js yarn test"
   }
 }
